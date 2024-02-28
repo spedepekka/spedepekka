@@ -4,6 +4,8 @@ I’m Jarno, a Android and DevOps/server oriented builder from Finland. You can 
 
 I'm currently working as a freelancer through my own company [Kranu](https://www.kranu.fi/). These pages talk about SEO, which is not my focus anymore.
 
+It is noteworthy to say that most of my repositories are private. If you want, I can show what I've created so far.
+
 ## Bio
 
 I'm Jarno, a freelance software developer with a profound expertise in DevOps, Android development, and CI/CD pipelines, particularly with Jenkins. My career is distinguished by an unwavering commitment to address and solve complex challenges, a trait that has positioned me as a leading innovator across diverse sectors such as the wood industry, energy sector, and telecommunications.
