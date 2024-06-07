@@ -21,3 +21,57 @@ My effectiveness in team collaboration and leadership is amplified by my skills 
 Embracing challenges as a freelancer, I'm passionate about delivering pioneering solutions. My work is characterized by a unique amalgamation of technical proficiency, inventive problem-solving, and a focus on human-centric design.
 
 Seeking a developer who not only shines in DevOps, Android, and CI/CD but also champions innovation and teamwork? Let's connect and explore how we can turn groundbreaking ideas into reality.
+
+## List of things I've bumped into
+
+This list is not all, but it is a good snapshot in top of my head. Ask if you cannot find the thing you would like to see in the list.
+
+* Java Spring/Java EE
+* Java Android
+* Android
+* Kotlin
+* Bash
+* Python
+* Jenkins
+* CI/CD
+* Git
+* Gitlab
+* Bitbucket
+* Github
+* Ansible
+* Chef
+* CFEngine
+* Proxmox
+* Kubernetes
+* AWS, TODO: Add more detailed listing
+* Postman
+* Se JMeter
+* Mysql
+* Postgresql
+* Terraform
+* Grafana
+* Influxdb
+* Vagrant
+* VMWare
+* Virtualbox
+* Nginx ja Apache
+* Docker
+* Robotium
+* Appium
+* Calabash
+* Mobile testing
+* Image recognition
+* Reverse engineering ([Edenblue Android](https://github.com/spedepekka/edenblue-android), [Edenblue Python CLI](https://github.com/spedepekka/edenblue-python))
+* Azure
+* Digital Ocean
+* VPS
+* Ruby
+* C/C++
+* Qt
+* AWS Lambda
+* Javascript / Typescript
+* Selenium
+* UI Automator
+* Scrum / Kanban / Agile
+* Node.js ([Nest.js](https://github.com/spedepekka/nest-bakkari))
+
