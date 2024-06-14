@@ -73,5 +73,5 @@ This list is not all, but it is a good snapshot in top of my head. Ask if you ca
 * Selenium
 * UI Automator
 * Scrum / Kanban / Agile
-* Node.js ([Nest.js](https://github.com/spedepekka/nest-bakkari))
+* Node.js / Nest.js ([learning repo](https://github.com/spedepekka/nest-bakkari), [blog post about learning Nest.js](https://jarnotuovinen.com/embracing-modern-backend-development-learning-nest-js-prisma-postgresql-and-neon-tech))
 
