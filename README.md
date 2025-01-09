@@ -27,6 +27,7 @@ Seeking a developer who not only shines in DevOps, Android, and CI/CD but also c
 This list is not all, but it is a good snapshot in top of my head. Ask if you cannot find the thing you would like to see in the list.
 
 * Java Spring/Java EE
+* Tomcat
 * Java Android
 * Android
 * Kotlin
@@ -38,23 +39,27 @@ This list is not all, but it is a good snapshot in top of my head. Ask if you ca
 * Gitlab
 * Bitbucket
 * Github
+* Github Actions
 * Ansible
 * Chef
 * CFEngine
 * Proxmox
 * Kubernetes
 * AWS, TODO: Add more detailed listing
+* AWS Lambda, EC2, ECS, ECR, CloudFormation
 * Postman
-* Se JMeter
+* JMeter
 * Mysql
 * Postgresql
 * Terraform
+* Terraform Cloud
 * Grafana
 * Influxdb
 * Vagrant
 * VMWare
 * Virtualbox
-* Nginx ja Apache
+* Nginx
+* Apache
 * Docker
 * Robotium
 * Appium
@@ -68,7 +73,6 @@ This list is not all, but it is a good snapshot in top of my head. Ask if you ca
 * Ruby
 * C/C++
 * Qt
-* AWS Lambda
 * Javascript / Typescript
 * Selenium
 * UI Automator
